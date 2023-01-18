@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "530638176702",
+    "project_id": "mypill-cf088",
+    "storage_bucket": "mypill-cf088.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530638176702:android:868ca47dee27169b0e79ef",
+        "android_client_info": {
+          "package_name": "com.flutter.mypill"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530638176702-tjfp8fbk983smsquvi50rf1q4ac9ucjv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutter.mypill",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "530638176702-jr6lb7jc9p9bhvmb8l166rhg5sal4oc3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-43HT96aJWWeXCOGRqWNnuUc4j2AtV1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530638176702-jr6lb7jc9p9bhvmb8l166rhg5sal4oc3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "530638176702-1lcbaanm9qe0i3cqdugr1ak73mi26ekj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutter.mypill"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530638176702:android:7b3334e6d9079f180e79ef",
+        "android_client_info": {
+          "package_name": "com.flutterflow.healthai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530638176702-jr6lb7jc9p9bhvmb8l166rhg5sal4oc3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-43HT96aJWWeXCOGRqWNnuUc4j2AtV1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530638176702-jr6lb7jc9p9bhvmb8l166rhg5sal4oc3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "530638176702-1lcbaanm9qe0i3cqdugr1ak73mi26ekj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutter.mypill"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
